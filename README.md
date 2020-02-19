@@ -5,8 +5,10 @@ See: https://github.com/timothycrosley/linux_environment#linux-environment for L
 - System Preferences:
     - Set keyboard layout to “Colemak”
     - Disable Mouse-> Scroll direction: natural
-- Install Firefox (https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com#download)
 - Install Bitwarden (https://bitwarden.com/#download)
+- Install Firefox (https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com#download)
+    - Log-in
+    - Enable Dark-theme in preferences
 - Install Xcode from App Store
 - Install Visual Studio Code (https://code.visualstudio.com/docs/?dv=osx)
 - Install brew: (https://brew.sh/)
