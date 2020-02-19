@@ -1,5 +1,7 @@
 # Mac Development Machine Set-up Instructions
 
+See: https://github.com/timothycrosley/linux_environment#linux-environment for Linux Development Environment.
+
 - System Preferences:
     - Set keyboard layout to “Colemak”
     - Disable Mouse-> Scroll direction: natural
