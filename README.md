@@ -2,6 +2,11 @@
 
 See: https://github.com/timothycrosley/linux_environment#linux-environment for Linux Development Environment.
 
+To Install scripts:
+```bash
+source <(curl -s https://raw.githubusercontent.com/timothycrosley/linux_environment/master/install.sh)
+```
+
 - System Preferences:
     - Set keyboard layout to “Colemak”
     - Disable Mouse-> Scroll direction: natural
