@@ -4,7 +4,7 @@ See: https://github.com/timothycrosley/linux_environment#linux-environment for L
 
 To Install scripts:
 ```bash
-source <(curl -s https://raw.githubusercontent.com/timothycrosley/linux_environment/master/install.sh)
+source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environment/master/install.sh)
 ```
 
 - System Preferences:
