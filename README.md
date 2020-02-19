@@ -12,6 +12,7 @@ See: https://github.com/timothycrosley/linux_environment#linux-environment for L
 - Install Xcode from App Store
 - Install Visual Studio Code (https://code.visualstudio.com/docs/?dv=osx)
    - Install code in path: https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
+   - `ln -s /usr/local/bin/code /usr/local/bin/ok`
 - Install brew: (https://brew.sh/)
 - Install magnet from Apple store
 - Install iterm2
