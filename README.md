@@ -18,3 +18,4 @@ See: https://github.com/timothycrosley/linux_environment#linux-environment for L
 - `brew install git`
 - `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python`
 - `brew install ruby`
+- `brew install bitwarden-cli`
