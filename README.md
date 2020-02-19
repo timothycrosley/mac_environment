@@ -10,10 +10,17 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
 - System Preferences:
     - Set keyboard layout to “Colemak”
     - Disable Mouse-> Scroll direction: natural
+    - Hot Corners
+       - top right: Mission Control
+       - top left: Lock Screen
+       - bottom right: Application Windows
+       - bottom left: Launchpad
 - Install Bitwarden (https://bitwarden.com/#download)
 - Install Firefox (https://www.mozilla.org/en-US/firefox/new/?redirect_source=firefox-com#download)
     - Log-in
     - Enable Dark-theme in preferences
+    - about:config
+        - apz.allow_zooming	true
 - Install Xcode from App Store
 - Install Visual Studio Code (https://code.visualstudio.com/docs/?dv=osx)
    - Install code in path: https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
