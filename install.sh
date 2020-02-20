@@ -1,10 +1,11 @@
-#!/bin/bash
+#!/bin/zsh
 #
 # Installs my customized MacOS environment files and scripts into the current users environment
 git clone https://github.com/timothycrosley/mac_environment.git ~/.environment
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 
 echo "source ~/.environment/source.sh" >> ~/.bash_profile
+echo "source ~/.environment/source.sh" >> ~/.zshrc
 ~/.fzf/install
 
 git config --global user.email "timothy.crosley@gmail.com"
