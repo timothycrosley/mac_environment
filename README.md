@@ -12,7 +12,6 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
     - Disable Mouse-> Scroll direction: natural
     - Hot Corners
        - top right: Mission Control
-       - top left: Lock Screen
        - bottom right: Application Windows
        - bottom left: Launchpad
 - Install Bitwarden (https://bitwarden.com/#download)
