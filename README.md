@@ -34,7 +34,9 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
 - `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python`
 - `brew install ruby`
 - `brew install bitwarden-cli`
-- Install karabiner and remap capslock to backspace: https://pqrs.org/osx/karabiner/
+- Install karabiner: https://pqrs.org/osx/karabiner/
+   - remap capslock to backspace
+   - remap home and end keys: https://pqrs.org/osx/karabiner/complex_modifications/?q=home
 - curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 - source $HOME/.cargo/env
 - cargo install py-spy
