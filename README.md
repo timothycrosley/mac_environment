@@ -35,6 +35,7 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
 - `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python`
 - `brew install ruby`
 - `brew install bitwarden-cli`
+- Install karabiner and remap capslock to backspace: https://pqrs.org/osx/karabiner/
 
 ## Ruby (RVM)
 - `brew install autoconf automake gdbm gmp libksba libtool libyaml openssl pkg-config readline`
