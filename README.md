@@ -20,17 +20,40 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
     - Enable Dark-theme in preferences
     - about:config
         - apz.allow_zooming	true
-- Install Xcode from App Store
+- Install from App Store:
+    - Xcode
+    - Quiver
+    - Magnet
 - Install Visual Studio Code (https://code.visualstudio.com/docs/?dv=osx)
    - Install code in path: https://stackoverflow.com/questions/30065227/run-open-vscode-from-mac-terminal
    - `ln -s /usr/local/bin/code /usr/local/bin/ok`
+   - Apply the following settings:
+    - files.trimTrailingWhitespace: true
+   - Short cuts:
+    - Go To File: ctrl+1
+
 - Install brew: (https://brew.sh/)
-- Install magnet from Apple store
+- Install vanilla: https://matthewpalmer.net/vanilla/
+- Install stream deck: https://www.elgato.com/en/gaming/downloads
+- Install alfred: https://www.alfredapp.com/
+- Install docker desktop: https://hub.docker.com/editions/community/docker-ce-desktop-mac
+- Install dash: https://kapeli.com/dash
+   - Download Doc Sets
+    - Ruby
+    - Python
+    - JavaScript
+    - React
+    - HTML5
+    - CSS3
+   - Enable alfred integration
+   - Enable visual studio code integration https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash
 - Install iterm2
     - Enable automatic updates
     - Follow this guide to enable quake style usage: http://www.karam.io/2018/Turning-iTerm-in-to-a-Quake-style-terminal-on-Mac-OS/https://brew.sh/
+    - Update session settings to remove terminal transparency
 - `brew install python3`
 - `brew install git`
+- `brew install kubectl`
 - `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python`
 - `brew install ruby`
 - `brew install bitwarden-cli`
