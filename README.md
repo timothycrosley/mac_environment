@@ -57,6 +57,7 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
 - `curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python`
 - `brew install ruby`
 - `brew install bitwarden-cli`
+- `brew install github/gh/gh`
 - Install karabiner: https://pqrs.org/osx/karabiner/
    - remap capslock to backspace
    - remap home and end keys: https://pqrs.org/osx/karabiner/complex_modifications/?q=home
