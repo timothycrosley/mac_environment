@@ -61,9 +61,10 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
 - Install karabiner: https://pqrs.org/osx/karabiner/
    - remap capslock to backspace
    - remap home and end keys: https://pqrs.org/osx/karabiner/complex_modifications/?q=home
-- curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-- source $HOME/.cargo/env
-- cargo install py-spy
+- `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
+- `source $HOME/.cargo/env`
+- `cargo install py-spy`
+- `defaults write -g NSWindowShouldDragOnGesture -bool true`
 
 ## Ruby (RVM)
 - `brew install autoconf automake gdbm gmp libksba libtool libyaml openssl pkg-config readline`
