@@ -49,7 +49,7 @@ source <(curl -s https://raw.githubusercontent.com/timothycrosley/mac_environmen
    - Enable visual studio code integration https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash
 - Install iterm2
     - Enable automatic updates
-    - Follow this guide to enable quake style usage: http://www.karam.io/2018/Turning-iTerm-in-to-a-Quake-style-terminal-on-Mac-OS/https://brew.sh/
+    - Follow this guide to enable quake style usage: http://www.karam.io/2018/Turning-iTerm-in-to-a-Quake-style-terminal-on-Mac-OS/
     - Update session settings to remove terminal transparency
 - `brew install python3`
 - `brew install git`
